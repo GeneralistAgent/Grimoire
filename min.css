@@ -1,3 +1,7 @@
+h1 {
+    text-align:center;
+}
+
 body{
     color: #444444;
     background-color: #EEEEEE;
@@ -6,8 +10,4 @@ body{
     line-height: 1.6em;
     font-size: 18px;
     padding: 0;
-}
-
-h1 {
-    text-align:center;
 }
